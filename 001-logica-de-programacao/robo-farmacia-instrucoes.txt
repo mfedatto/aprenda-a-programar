@@ -1,0 +1,33 @@
+Lógica de programação
+
+Sair de casa
+- Ir até a porta
+- Se a porta estiver fechada
+  - Abrir a porta
+- Ir até o portão de saída da casa
+- Se o portão estiver fechado
+  - Abrir o portão
+- Enquanto a rua estiver obstruída
+  - Aguardar 10 segundos
+- Atravessar a rua
+- Se farmácia estiver aberta
+  - Entrar na farmácia
+  - Se dirigir ao balcão de atendimento
+  - Chamar um atendente
+  - Enquanto não for atendido
+    - Aguardar atendimento
+  - Pedir uma cartela de analgésico
+  - Pegar a guia do pedido
+  - Se dirigir ao caixa
+  - Equanto não for atendido
+    - Aguardar na fila
+  - Efetuar pagamento
+- Enquanto a rua estiver obstruída
+  - Aguardar 10 segundos
+- Atravessar a rua
+- Se o portão estiver fechado
+  - Abrir o portão
+- Ir até a porta de entrada da casa
+- Se a porta estiver fechada
+  - Abrir a porta
+- Entregar o analgésico
